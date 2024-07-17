@@ -1,8 +1,6 @@
 ## Olá me chamo Sthefany Lima 👋
 
 
-![stehfany's Streak](https://github-readme-streak-stats.herokuapp.com/?user=stehfany&theme=vue-dark&hide_border=true)
-
 <div style="display: inline_block"><br>
   <p> As principais linguagens que são: </p>
   <img align="center" alt="Sthe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
